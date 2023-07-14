@@ -1,5 +1,4 @@
 [[redirects]]
-from = "/*"
+from = "/"
 to = "/src/index.html"
 status = 200
-conditions = { "Path" : { "regex" : "^(?!.*\.(png|jpg|gif))" } }
