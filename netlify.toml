@@ -4,6 +4,6 @@ to = "/src/index.html"
 status = 200
 
 [[redirects]]
-from = "src/img/*"
+from = "/img/*"
 to = "src/img/:splat"
 status = 200
