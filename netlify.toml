@@ -2,7 +2,6 @@
 from = "/*"
 to = "/src/index.html"
 status = 200
-conditions = { "Path" : { "regex" : "^(?!/src/index.html|src/img/)" } }
 
 [[redirects]]
 from = "src/img/*"
